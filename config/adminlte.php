@@ -132,7 +132,7 @@ return [
         [
             'text' => 'NUEVO',
             'url'  => 'admin/blog',
-            'icon'        => 'file',
+            'icon' => 'file',
             'can'  => 'manage-blog',
         ],
         'ACCOUNT SETTINGS',
